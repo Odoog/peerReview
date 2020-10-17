@@ -1,0 +1,13 @@
+C:\Users\odoog\source\repos\apple_splution\apple_splution\bin\Debug\netcoreapp3.1\apple_splution.exe
+C:\Users\odoog\source\repos\apple_splution\apple_splution\bin\Debug\netcoreapp3.1\apple_splution.deps.json
+C:\Users\odoog\source\repos\apple_splution\apple_splution\bin\Debug\netcoreapp3.1\apple_splution.runtimeconfig.json
+C:\Users\odoog\source\repos\apple_splution\apple_splution\bin\Debug\netcoreapp3.1\apple_splution.runtimeconfig.dev.json
+C:\Users\odoog\source\repos\apple_splution\apple_splution\bin\Debug\netcoreapp3.1\apple_splution.dll
+C:\Users\odoog\source\repos\apple_splution\apple_splution\bin\Debug\netcoreapp3.1\apple_splution.pdb
+C:\Users\odoog\source\repos\apple_splution\apple_splution\obj\Debug\netcoreapp3.1\apple_splution.csprojAssemblyReference.cache
+C:\Users\odoog\source\repos\apple_splution\apple_splution\obj\Debug\netcoreapp3.1\apple_splution.AssemblyInfoInputs.cache
+C:\Users\odoog\source\repos\apple_splution\apple_splution\obj\Debug\netcoreapp3.1\apple_splution.AssemblyInfo.cs
+C:\Users\odoog\source\repos\apple_splution\apple_splution\obj\Debug\netcoreapp3.1\apple_splution.csproj.CoreCompileInputs.cache
+C:\Users\odoog\source\repos\apple_splution\apple_splution\obj\Debug\netcoreapp3.1\apple_splution.dll
+C:\Users\odoog\source\repos\apple_splution\apple_splution\obj\Debug\netcoreapp3.1\apple_splution.pdb
+C:\Users\odoog\source\repos\apple_splution\apple_splution\obj\Debug\netcoreapp3.1\apple_splution.genruntimeconfig.cache
